@@ -1,0 +1,6 @@
+{
+  "name": "Devsio Services ERP & Financial Control",
+  "description": "Internal Agency Accounting, Multi-Account Ledger, Project Costing, Milestones & Team Payout Management for Devsio Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
